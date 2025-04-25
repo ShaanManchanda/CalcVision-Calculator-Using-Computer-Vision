@@ -1,7 +1,7 @@
 # Calculator Using Computer Vision - CalcVision 📸
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/03f7c640-820c-427c-98c8-d61728733853" height="375">
+  <img src="https://github.com/user-attachments/assets/3261c3fe-8bc5-4d2a-9fc8-e322750ec29b" height="375">
 </p>
 
 ### Tech Stack
